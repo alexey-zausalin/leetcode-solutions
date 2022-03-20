@@ -18,16 +18,22 @@ class Solution {
 
         while (node1 != null || node2 != null) {
             if (node1 == null) {
-                current.next = new ListNode(node2.val);
-                node2 = node2.next;
+                if (head == null) {
+                    return node2;
+                }
+                current.next = node2;
+                break;
             } else if (node2 == null) {
-                current.next = new ListNode(node1.val);
-                node1 = node1.next;
+                if (head == null) {
+                    return node1;
+                }
+                current.next = node1;
+                break;
             } else if (node1.val < node2.val) {
-                current.next = new ListNode(node1.val);
+                current.next = node1;
                 node1 = node1.next;
             } else {
-                current.next = new ListNode(node2.val);
+                current.next = node2;
                 node2 = node2.next;
             }
 
