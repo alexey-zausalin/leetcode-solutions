@@ -23,7 +23,7 @@
 - How Many Numbers Are Smaller Than the Current Number [solution](1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.java) `Array` `Hash Table` `Sorting` `Counting`
 - Maximum Depth of Binary Tree [solution](104-maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.java) `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 - Shuffle String [solution](1528-shuffle-string/1528-shuffle-string.java) `Array` `String`
-
+- Merge Two Sorted Lists [solution](21-merge-two-sorted-lists/21-merge-two-sorted-lists.java) `Linked List` `Recursion`
 
 ### Medium
 
