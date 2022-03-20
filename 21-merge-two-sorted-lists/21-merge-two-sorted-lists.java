@@ -13,28 +13,25 @@ class Solution {
         ListNode head = null;
         ListNode current = new ListNode();
 
-        ListNode node1 = list1;
-        ListNode node2 = list2; 
-
-        while (node1 != null || node2 != null) {
-            if (node1 == null) {
+        while (list1 != null || list2 != null) {
+            if (list1 == null) {
                 if (head == null) {
-                    return node2;
+                    return list2;
                 }
-                current.next = node2;
+                current.next = list2;
                 break;
-            } else if (node2 == null) {
+            } else if (list2 == null) {
                 if (head == null) {
-                    return node1;
+                    return list1;
                 }
-                current.next = node1;
+                current.next = list1;
                 break;
-            } else if (node1.val < node2.val) {
-                current.next = node1;
-                node1 = node1.next;
+            } else if (list1.val < list2.val) {
+                current.next = list1;
+                list1 = list1.next;
             } else {
-                current.next = node2;
-                node2 = node2.next;
+                current.next = list2;
+                list2 = list2.next;
             }
 
             if (head == null) {
