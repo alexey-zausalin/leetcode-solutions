@@ -25,6 +25,7 @@
 - Shuffle String [solution](1528-shuffle-string/1528-shuffle-string.java) `Array` `String`
 - Merge Two Sorted Lists [solution](21-merge-two-sorted-lists/21-merge-two-sorted-lists.java) `Linked List` `Recursion`
 - Valid Parentheses [solution](20-valid-parentheses/20-valid-parentheses.java) `String` `Stack`
+- Binary Tree Preorder Traversal [solution](144-binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.java) `Stack` `Tree` `Depth-First Search` `Binary Tree`
 
 ### Medium
 
