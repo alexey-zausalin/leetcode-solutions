@@ -19,7 +19,8 @@ class Solution {
             return Collections.EMPTY_LIST;
         }
 
-        List<Integer> result = new ArrayList<>(postorderTraversal(root.left));
+        List<Integer> result = new ArrayList<>();
+        result.addAll(postorderTraversal(root.left));
         result.addAll(postorderTraversal(root.right));
         result.add(root.val);
 
