@@ -24,6 +24,7 @@
 - Maximum Depth of Binary Tree [solution](104-maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.java) `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 - Shuffle String [solution](1528-shuffle-string/1528-shuffle-string.java) `Array` `String`
 - Merge Two Sorted Lists [solution](21-merge-two-sorted-lists/21-merge-two-sorted-lists.java) `Linked List` `Recursion`
+- Valid Parentheses [solution](20-valid-parentheses/20-valid-parentheses.java) `String` `Stack`
 
 ### Medium
 
