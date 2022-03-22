@@ -28,6 +28,7 @@
 - Binary Tree Preorder Traversal [solution](144-binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.java) `Stack` `Tree` `Depth-First Search` `Binary Tree`
 - Binary Tree Postorder Traversal [solution](145-binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.java) `Stack` `Tree` `Depth-First Search` `Binary Tree`
 - Maximum Number of Words Found in Sentences [solution](2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.java) `Array` `String`
+- Subrectangle Queries [solution](1476-subrectangle-queries/1476-subrectangle-queries.java) `Array` `Design` `Matrix`
 
 ### Medium
 
