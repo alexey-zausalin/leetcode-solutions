@@ -12,13 +12,13 @@ class Solution {
     }
     
     private int numberWords(String sentence) {
-        int count = 0;
+        int count = 1;
         for (int i = 1; i < sentence.length() - 1; i++) {
             if (sentence.charAt(i) == ' ') {
                 count++;
             }
         }
         
-        return count + 1;
+        return count;
     }
 }
