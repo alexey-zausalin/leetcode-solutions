@@ -30,6 +30,7 @@
 - Maximum Number of Words Found in Sentences [solution](2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.java) `Array` `String`
 - Minimum Sum of Four Digit Number After Splitting Digits [solution](2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.java) `Math` `Greedy` `Sorting`
 - Subtract the Product and Sum of Digits of an Integer [solution](1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java) `Math`
+- Decompress Run-Length Encoded List [solution](1313-decompress-run-length-encoded-list/1313-decompress-run-length-encoded-list.java) `Array`
 
 ### Medium
 
