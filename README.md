@@ -32,6 +32,7 @@
 - Subtract the Product and Sum of Digits of an Integer [solution](1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java) `Math`
 - Decompress Run-Length Encoded List [solution](1313-decompress-run-length-encoded-list/1313-decompress-run-length-encoded-list.java) `Array`
 - Reverse string [solution](344-reverse-string/344-reverse-string.java) `Two Pointers` `String` `Recursion`
+- Contains Duplicate [solution](217-contains-duplicate/217-contains-duplicate.java) `Array` `Hash Table` `Sorting`
 
 ### Medium
 
