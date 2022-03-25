@@ -34,6 +34,7 @@
 - Reverse string [solution](344-reverse-string/344-reverse-string.java) `Two Pointers` `String` `Recursion`
 - Contains Duplicate [solution](217-contains-duplicate/217-contains-duplicate.java) `Array` `Hash Table` `Sorting`
 - Delete Node in a Linked List [solution](237-delete-node-in-a-linked-list/237-delete-node-in-a-linked-list.java) `Linked List`
+- Fizz Buzz [solution](412-fizz-buzz/412-fizz-buzz.java) `Math` `String` `Simulation`
 
 ### Medium
 
