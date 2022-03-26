@@ -39,6 +39,7 @@
 - Middle of the Linked List [solution](876-middle-of-the-linked-list/876-middle-of-the-linked-list.java) `Linked List` `Two Pointers`
 - Palindrome Linked List [solution](234-palindrome-linked-list/234-palindrome-linked-list.java) `Linked List` `Two Pointers` `Stack` `Recursion`
 - Remove Linked List Elements [solution](203-remove-linked-list-elements/203-remove-linked-list-elements.java) `Linked List` `Recursion`
+- Linked List Cycle [solution](141-linked-list-cycle/141-linked-list-cycle.java) `Hash Table` `Linked List` `Two Pointers`
 
 ### Medium
 
