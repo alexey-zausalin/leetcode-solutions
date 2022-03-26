@@ -13,7 +13,7 @@ class Solution {
         int decimalValue = 0;
         while (head != null) {
             decimalValue *= 2;
-            decimalValue += head.val % 2;
+            decimalValue += head.val;
 
             head = head.next;
         }
