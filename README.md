@@ -38,6 +38,7 @@
 - Convert Binary Number in a Linked List to Integer [solution](1290-convert-binary-number-in-a-linked-list-to-integer/1290-convert-binary-number-in-a-linked-list-to-integer.java) `Linked List` `Math`
 - Middle of the Linked List [solution](876-middle-of-the-linked-list/876-middle-of-the-linked-list.java) `Linked List` `Two Pointers`
 - Palindrome Linked List [solution](234-palindrome-linked-list/234-palindrome-linked-list.java) `Linked List` `Two Pointers` `Stack` `Recursion`
+- Remove Linked List Elements [solution](203-remove-linked-list-elements/203-remove-linked-list-elements.java) `Linked List` `Recursion`
 
 ### Medium
 
