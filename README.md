@@ -36,6 +36,7 @@
 - Delete Node in a Linked List [solution](237-delete-node-in-a-linked-list/237-delete-node-in-a-linked-list.java) `Linked List`
 - Fizz Buzz [solution](412-fizz-buzz/412-fizz-buzz.java) `Math` `String` `Simulation`
 - Convert Binary Number in a Linked List to Integer [solution](1290-convert-binary-number-in-a-linked-list-to-integer/1290-convert-binary-number-in-a-linked-list-to-integer.java) `Linked List` `Math`
+- Middle of the Linked List [solution](876-middle-of-the-linked-list/876-middle-of-the-linked-list.java) `Linked List` `Two Pointers`
 
 ### Medium
 
