@@ -40,6 +40,7 @@
 - Palindrome Linked List [solution](234-palindrome-linked-list/234-palindrome-linked-list.java) `Linked List` `Two Pointers` `Stack` `Recursion`
 - Remove Linked List Elements [solution](203-remove-linked-list-elements/203-remove-linked-list-elements.java) `Linked List` `Recursion`
 - Linked List Cycle [solution](141-linked-list-cycle/141-linked-list-cycle.java) `Hash Table` `Linked List` `Two Pointers`
+- Remove Duplicates from Sorted List [solution](83-remove-duplicates-from-sorted-list/83-remove-duplicates-from-sorted-list.java) `Linked List`
 
 ### Medium
 
