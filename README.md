@@ -43,6 +43,7 @@
 - Remove Duplicates from Sorted List [solution](83-remove-duplicates-from-sorted-list/83-remove-duplicates-from-sorted-list.java) `Linked List`
 - Length of Last Word [solution](58-length-of-last-word/58-length-of-last-word.java) `String`
 - Decode XORed Array [solution](1720-decode-xored-array/1720-decode-xored-array.java) `Array` `Bit Manipulation`
+- Number of Steps to Reduce a Number to Zero [solution](1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java) `Math` `Bit Manipulation`
 
 ### Medium
 
