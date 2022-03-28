@@ -45,6 +45,7 @@
 - Decode XORed Array [solution](1720-decode-xored-array/1720-decode-xored-array.java) `Array` `Bit Manipulation`
 - Number of Steps to Reduce a Number to Zero [solution](1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java) `Math` `Bit Manipulation`
 - Create Target Array in the Given Order [solution](1389-create-target-array-in-the-given-order/1389-create-target-array-in-the-given-order.java) `Array` `Simulation`
+- Unique Morse Code Words [solution](804-unique-morse-code-words/804-unique-morse-code-words.java) `Array` `Hash Table` `String`
 
 ### Medium
 
