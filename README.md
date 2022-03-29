@@ -47,6 +47,7 @@
 - Create Target Array in the Given Order [solution](1389-create-target-array-in-the-given-order/1389-create-target-array-in-the-given-order.java) `Array` `Simulation`
 - Unique Morse Code Words [solution](804-unique-morse-code-words/804-unique-morse-code-words.java) `Array` `Hash Table` `String`
 - Count Number of Pairs With Absolute Difference K [solution](2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.java) `Array` `Hash Table` `Counting`
+- Goal Parser Interpretation [solution](1678-goal-parser-interpretation/1678-goal-parser-interpretation.java) `String`
 
 ### Medium
 
