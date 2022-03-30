@@ -51,6 +51,7 @@
 - Binary Tree Inorder Traversal [solution](94-binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.java) `Stack` `Tree` `Drpth-First Search` `Binary Tree`
 - Search Insert Position [solution](35-search-insert-position/35-search-insert-position.java) `Array` `Binary Search`
 - Sqrt(x) [solution](69-sqrtx/69-sqrtx.java) `Math` `Binary Search`
+- First Bad Version [solution](278-first-bad-version/278-first-bad-version.java) `Binary Search` `Interactive`
 
 ### Medium
 
