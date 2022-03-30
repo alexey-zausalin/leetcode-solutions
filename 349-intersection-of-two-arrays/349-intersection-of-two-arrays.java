@@ -18,29 +18,22 @@ class Solution {
         
         Arrays.sort(toNums);
         for (int inNum: inNums) {
-            if (inArray(toNums, inNum)) {
-                set.add(inNum);
+            int lo = 0, hi = toNums.length - 1;
+            while (lo <= hi) {
+                int med = lo + (hi - lo) / 2;
+                if (toNums[med] == inNum) {
+                    set.add(inNum);
+                    break;
+                }
+
+                if (toNums[med] < inNum) {
+                    lo = med + 1;
+                } else {
+                    hi = med - 1;
+                }
             }
         }
 
         return set;
-    }
-    
-    private boolean inArray(int[] nums, int num) {
-        int lo = 0, hi = nums.length - 1;
-        while (lo <= hi) {
-            int med = lo + (hi - lo) / 2;
-            if (nums[med] == num) {
-                return true;
-            }
-
-            if (nums[med] < num) {
-                lo = med + 1;
-            } else {
-                hi = med - 1;
-            }
-        }
-        
-        return false;
     }
 }
