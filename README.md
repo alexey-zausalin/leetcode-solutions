@@ -50,6 +50,7 @@
 - Goal Parser Interpretation [solution](1678-goal-parser-interpretation/1678-goal-parser-interpretation.java) `String`
 - Binary Tree Inorder Traversal [solution](94-binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.java) `Stack` `Tree` `Drpth-First Search` `Binary Tree`
 - Search Insert Position [solution](35-search-insert-position/35-search-insert-position.java) `Array` `Binary Search`
+- Sqrt(x) [solution](69-sqrtx/69-sqrtx.java) `Math` `Binary Search`
 
 ### Medium
 
