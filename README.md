@@ -49,6 +49,7 @@
 - Count Number of Pairs With Absolute Difference K [solution](2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.java) `Array` `Hash Table` `Counting`
 - Goal Parser Interpretation [solution](1678-goal-parser-interpretation/1678-goal-parser-interpretation.java) `String`
 - Binary Tree Inorder Traversal [solution](94-binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.java) `Stack` `Tree` `Drpth-First Search` `Binary Tree`
+- Search Insert Position [solution](35-search-insert-position/35-search-insert-position.java) `Array` `Binary Search`
 
 ### Medium
 
