@@ -52,6 +52,7 @@
 - Search Insert Position [solution](35-search-insert-position/35-search-insert-position.java) `Array` `Binary Search`
 - Sqrt(x) [solution](69-sqrtx/69-sqrtx.java) `Math` `Binary Search`
 - First Bad Version [solution](278-first-bad-version/278-first-bad-version.java) `Binary Search` `Interactive`
+- Intersection of Two Arrays [solution](349-intersection-of-two-arrays/349-intersection-of-two-arrays.java) `Array` `Hash Table` `Two Pointers` `Binary Search`
 
 ### Medium
 
