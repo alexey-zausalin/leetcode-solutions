@@ -21,7 +21,10 @@ class Solution {
 
         int start = 0;
         for (int i = 0; i < inNums.length; i++) {
-
+            if (i < inNums.length - 1 && inNums[i] == inNums[i+1]) {
+                continue;
+            }
+            
             int lo = start, hi = toNums.length - 1;
             while (lo <= hi) {
                 int med = lo + (hi - lo) / 2;
