@@ -13,7 +13,36 @@ class Solution {
         return intersection;
     }
     
-    private Set<Integer> getIntersection(int[] inNums, int[] toNums) {
+    private Set<Integer> getIntersection(int[] inNums, int[] toNums) {      
+        Set<Integer> set = new HashSet();
+        
+        Arrays.sort(inNums);
+        Arrays.sort(toNums);
+
+        int start = 0;
+        for (int i = 0; i < inNums.length; i++) {
+
+            int lo = start, hi = toNums.length - 1;
+            while (lo <= hi) {
+                int med = lo + (hi - lo) / 2;
+                if (toNums[med] == inNums[i]) {
+                    set.add(inNums[i]);
+                    start = med;
+                    break;
+                }
+
+                if (toNums[med] < inNums[i]) {
+                    lo = med + 1;
+                } else {
+                    hi = med - 1;
+                }
+            }
+        }
+
+        return set;
+    }
+    
+    private Set<Integer> getIntersectionV2(int[] inNums, int[] toNums) {
         Set<Integer> set = new HashSet();
         
         Arrays.sort(toNums);
