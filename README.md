@@ -55,6 +55,7 @@
 - Intersection of Two Arrays [solution](349-intersection-of-two-arrays/349-intersection-of-two-arrays.java) `Array` `Hash Table` `Two Pointers` `Binary Search`
 - Intersection of Two Arrays II [solution](350-intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.java) `Array` `Hash Table` `Two Pointers` `Binary Search`
 - Valid Perfect Square [solution](367-valid-perfect-square/367-valid-perfect-square.java) `Math` `Binary Search`
+- Guess Number Higher or Lower [solution](374-guess-number-higher-or-lower/374-guess-number-higher-or-lower.java) `Binary Search` `Interactive`
 
 ### Medium
 
