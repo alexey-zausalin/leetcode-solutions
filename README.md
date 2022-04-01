@@ -54,6 +54,7 @@
 - First Bad Version [solution](278-first-bad-version/278-first-bad-version.java) `Binary Search` `Interactive`
 - Intersection of Two Arrays [solution](349-intersection-of-two-arrays/349-intersection-of-two-arrays.java) `Array` `Hash Table` `Two Pointers` `Binary Search`
 - Intersection of Two Arrays II [solution](350-intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.java) `Array` `Hash Table` `Two Pointers` `Binary Search`
+- Valid Perfect Square [solution](367-valid-perfect-square/367-valid-perfect-square.java) `Math` `Binary Search`
 
 ### Medium
 
