@@ -3,14 +3,7 @@ class Solution {
         int lo = 0, hi = s.length() - 1;
         while (lo <= hi) {
             if (s.charAt(lo) != s.charAt(hi)) {
-                if (
-                    absoluteValidPalindrome(s.substring(lo, hi)) ||
-                    absoluteValidPalindrome(s.substring(lo+1, hi+1))
-                ) {
-                    return true;
-                }
-
-                return false;
+                return isAbsolutePalindrome(s.substring(lo, hi)) || isAbsolutePalindrome(s.substring(lo+1, hi+1));
             }
 
             lo++;
@@ -20,7 +13,7 @@ class Solution {
         return true;
     }
     
-    private boolean absoluteValidPalindrome(String s) {
+    private boolean isAbsolutePalindrome(String s) {
         int lo = 0, hi = s.length() - 1;
         while (lo <= hi) {
             if (s.charAt(lo++) != s.charAt(hi--)) {
