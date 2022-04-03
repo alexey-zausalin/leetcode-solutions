@@ -59,6 +59,7 @@
 - Valid Palindrome II [solution](680-valid-palindrome-ii/680-valid-palindrome-ii.java) `Two Pointers` `String` `Greedy`
 - Recyclable and Low Fat Products [solution](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) `Database`
 - Daily Leads and Partners [solution](1693-daily-leads-and-partners/1693-daily-leads-and-partners.sql) `Database`
+- Cells in a Range on an Excel Sheet [solution](2194-cells-in-a-range-on-an-excel-sheet/2194-cells-in-a-range-on-an-excel-sheet.java) `String`
 
 ### Medium
 
