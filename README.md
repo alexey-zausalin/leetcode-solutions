@@ -58,6 +58,7 @@
 - Guess Number Higher or Lower [solution](374-guess-number-higher-or-lower/374-guess-number-higher-or-lower.java) `Binary Search` `Interactive`
 - Valid Palindrome II [solution](680-valid-palindrome-ii/680-valid-palindrome-ii.java) `Two Pointers` `String` `Greedy`
 - Recyclable and Low Fat Products [solution](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql) `Database`
+- Daily Leads and Partners [solution](1693-daily-leads-and-partners/1693-daily-leads-and-partners.sql) `Database`
 
 ### Medium
 
