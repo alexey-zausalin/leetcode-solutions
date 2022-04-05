@@ -61,6 +61,7 @@
 - Daily Leads and Partners [solution](1693-daily-leads-and-partners/1693-daily-leads-and-partners.sql) `Database`
 - Cells in a Range on an Excel Sheet [solution](2194-cells-in-a-range-on-an-excel-sheet/2194-cells-in-a-range-on-an-excel-sheet.java) `String`
 - Plus One [solution](66-plus-one/66-plus-one.java) `Array` `Math`
+- Power of Two [solution](231-power-of-two/231-power-of-two.java) `Math` `Bit manipulation` `Recursion`
 
 ### Medium
 
