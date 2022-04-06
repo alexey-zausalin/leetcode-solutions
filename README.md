@@ -64,6 +64,7 @@
 - Power of Two [solution](231-power-of-two/231-power-of-two.java) `Math` `Bit manipulation` `Recursion`
 - Find Total Time Spent by Each Employee [solution](1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql) `Database`
 - Sum of Unique Elements [solution](1748-sum-of-unique-elements/1748-sum-of-unique-elements.java) `Array` `Hash Table` `Counting`
+- Single Number [solution](136-single-number/136-single-number.java) `Array` `Bit Manipulation`
 
 ### Medium
 
