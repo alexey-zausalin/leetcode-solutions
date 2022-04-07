@@ -8,12 +8,10 @@ class Solution {
         while (lo <= hi) {
             int med = lo + (hi - lo) / 2;
             if (nums[med] == target) {
-                while (med > 0 && nums[med-1] == target) {
-                    med--;
-                }
-                
-                while (med < nums.length && nums[med] == target) {
-                    indices.add(med++);
+                int min = minIndex(nums, target, med);
+                int max = maxIndex(nums, target, med);
+                for (int i = min; i <= max; i++) {
+                    indices.add(i);
                 }
                 
                 break;
@@ -27,5 +25,21 @@ class Solution {
         }
         
         return indices;
+    }
+    
+    private int minIndex(int[] nums, int target, int index) {
+        while (index > 0 && nums[index-1] == target) {
+            index--;
+        }
+        
+        return index;
+    }
+    
+    private int maxIndex(int[] nums, int target, int index) {
+        while (index < (nums.length - 1) && nums[index+1] == target) {
+            index++;
+        }
+        
+        return index;
     }
 }
