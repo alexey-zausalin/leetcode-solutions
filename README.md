@@ -67,6 +67,7 @@
 - Single Number [solution](136-single-number/136-single-number.java) `Array` `Bit Manipulation`
 - Valid Anagram [solution](242-valid-anagram/242-valid-anagram.java) `Hash Table` `String` `Sorting`
 - Calculate Special Bonus [solution](1873-calculate-special-bonus/1873-calculate-special-bonus.sql) `Database`
+- Find Target Indices After Sorting Array [solution](2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java) `Array` `Binary Search` `Sorting`
 
 ### Medium
 
