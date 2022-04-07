@@ -66,6 +66,7 @@
 - Sum of Unique Elements [solution](1748-sum-of-unique-elements/1748-sum-of-unique-elements.java) `Array` `Hash Table` `Counting`
 - Single Number [solution](136-single-number/136-single-number.java) `Array` `Bit Manipulation`
 - Valid Anagram [solution](242-valid-anagram/242-valid-anagram.java) `Hash Table` `String` `Sorting`
+- Calculate Special Bonus [solution](1873-calculate-special-bonus/1873-calculate-special-bonus.sql) `Database`
 
 ### Medium
 
