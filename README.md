@@ -78,3 +78,4 @@
 - Subrectangle Queries [solution](1476-subrectangle-queries/1476-subrectangle-queries.java) `Array` `Design` `Matrix`
 - Partitioning Into Minimum Number Of Deci-Binary Numbers [solution](1689-partitioning-into-minimum-number-of-deci-binary-numbers/1689-partitioning-into-minimum-number-of-deci-binary-numbers.java) `String` `Greedy`
 - Merge Nodes in Between Zeros [solution](21-merge-two-sorted-lists/21-merge-two-sorted-lists.java) `Linked List` `Simulation`
+- 3Sum [solution](15-3sum/15-3sum.java) `Array` `Two Pointers` `Sorting`
