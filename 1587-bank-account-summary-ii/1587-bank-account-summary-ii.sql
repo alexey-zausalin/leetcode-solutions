@@ -1,5 +1,5 @@
-select u.NAME, sum(t.amount) as BALANCE
+select u.name, sum(t.amount) as balance
 from users u
 join transactions t on t.account = u.account
 group by t.account
-having sum(t.amount) > 10000
+having balance > 10000
