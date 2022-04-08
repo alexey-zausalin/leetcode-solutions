@@ -70,6 +70,7 @@
 - Find Target Indices After Sorting Array [solution](2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.java) `Array` `Binary Search` `Sorting`
 - Bank Account Summary II [solution](1587-bank-account-summary-ii/1587-bank-account-summary-ii.sql) `Database`
 - Customer Who Visited but Did Not Make Any Transactions [solution](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) `Database`
+- Truncate Sentence [solution](1816-truncate-sentence/1816-truncate-sentence.java) `Array` `String`
 
 ### Medium
 
