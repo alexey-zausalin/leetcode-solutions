@@ -79,3 +79,4 @@
 - Partitioning Into Minimum Number Of Deci-Binary Numbers [solution](1689-partitioning-into-minimum-number-of-deci-binary-numbers/1689-partitioning-into-minimum-number-of-deci-binary-numbers.java) `String` `Greedy`
 - Merge Nodes in Between Zeros [solution](21-merge-two-sorted-lists/21-merge-two-sorted-lists.java) `Linked List` `Simulation`
 - 3Sum [solution](15-3sum/15-3sum.java) `Array` `Two Pointers` `Sorting`
+- Queries on Number of Points Inside a Circle [solution](1828-queries-on-number-of-points-inside-a-circle/1828-queries-on-number-of-points-inside-a-circle.java) `Array` `Math` `Geometry`
