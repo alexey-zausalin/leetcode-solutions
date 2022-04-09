@@ -71,6 +71,7 @@
 - Bank Account Summary II [solution](1587-bank-account-summary-ii/1587-bank-account-summary-ii.sql) `Database`
 - Customer Who Visited but Did Not Make Any Transactions [solution](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql) `Database`
 - Truncate Sentence [solution](1816-truncate-sentence/1816-truncate-sentence.java) `Array` `String`
+- Check If Two String Arrays are Equivalent [solution](1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.java) `Array` `String`
 
 ### Medium
 
