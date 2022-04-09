@@ -81,3 +81,4 @@
 - Merge Nodes in Between Zeros [solution](21-merge-two-sorted-lists/21-merge-two-sorted-lists.java) `Linked List` `Simulation`
 - 3Sum [solution](15-3sum/15-3sum.java) `Array` `Two Pointers` `Sorting`
 - Queries on Number of Points Inside a Circle [solution](1828-queries-on-number-of-points-inside-a-circle/1828-queries-on-number-of-points-inside-a-circle.java) `Array` `Math` `Geometry`
+- Minimum Number of Operations to Move All Balls to Each Box [solution](1769-minimum-number-of-operations-to-move-all-balls-to-each-box/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.java) `Array` `String`
