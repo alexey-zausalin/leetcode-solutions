@@ -73,6 +73,7 @@
 - Truncate Sentence [solution](1816-truncate-sentence/1816-truncate-sentence.java) `Array` `String`
 - Check If Two String Arrays are Equivalent [solution](1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.java) `Array` `String`
 - Baseball Game [solution](682-baseball-game/682-baseball-game.java) `Array` `Stack` `Simulation`
+- Reverse Linked List [solution](206-reverse-linked-list/206-reverse-linked-list.java) `Linked List` `Recursion`
 
 ### Medium
 
