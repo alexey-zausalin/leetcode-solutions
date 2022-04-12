@@ -20,58 +20,48 @@ class Solution {
     private int newState(int[][] board, int row, int col) {
         int neighbors = 0;
         
-        if (row > 0) {
-            int topMiddle = board[row - 1][col];
-            neighbors += topMiddle;
+        boolean hasTop = row > 0;
+        boolean hasBottom = row < (board.length - 1);
+        boolean hasLeft = col > 0;
+        boolean hasRight = col < (board[0].length - 1);
+
+        if (hasTop) {
+            neighbors += board[row - 1][col];
         }
     
-        if (row < board.length - 1) {      
-            int bottomMiddle = board[row + 1][col];
-            neighbors += bottomMiddle;
+        if (hasBottom) {     
+            neighbors += board[row + 1][col];
         }
         
-        if (col > 0) {
-            if (row > 0) {
-                int topLeft = board[row - 1][col - 1];
-                neighbors += topLeft;
+        if (hasLeft) {
+            if (hasTop) {
+                neighbors += board[row - 1][col - 1];
             }
             
-            int middleLeft = board[row][col - 1];
-            neighbors += middleLeft;
+            neighbors += board[row][col - 1];
             
-            if (row < board.length - 1) {
-                int bottomLeft = board[row + 1][col - 1];
-                neighbors += bottomLeft;
+            if (hasBottom) {
+                neighbors += board[row + 1][col - 1];
             }
         }
                 
-        if (col < board[0].length - 1) {
-            if (row > 0) {
-                int topRight = board[row - 1][col + 1];
-                neighbors += topRight;
+        if (hasRight) {
+            if (hasTop) {
+                neighbors += board[row - 1][col + 1];
             }
 
-            int middleRight = board[row][col + 1];
-            neighbors += middleRight;
+            neighbors += board[row][col + 1];
             
-            if (row < board.length - 1) {
-                int bottomRight = board[row + 1][col + 1];
-                neighbors += bottomRight;
+            if (hasBottom) {
+                neighbors += board[row + 1][col + 1];
             }
         }
 
-        if (board[row][col] == 0) {
-            if (neighbors == 3) {
-                return 1;
-            }
-            
-            return 0;
+        boolean isLive = board[row][col] == 1;
+        if (neighbors == 3 || isLive && neighbors == 2) {
+            return 1;
         }
         
-        if (neighbors < 2 || neighbors > 3) {
-            return 0;
-        }
-        
-        return 1;
+        return 0;
     }
 }
