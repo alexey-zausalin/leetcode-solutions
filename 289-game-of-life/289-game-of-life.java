@@ -6,7 +6,7 @@ class Solution {
         for (int i = 0; i < rows; i++) {
             nextStateBoard[i] = new int[cols]; 
             for (int j = 0; j < cols; j++) {
-                nextStateBoard[i][j] = newState(board, i, j);
+                nextStateBoard[i][j] = isLive(board, i, j) ? 1 : 0;
             }
         }
         
@@ -17,7 +17,7 @@ class Solution {
         }
     }
     
-    private int newState(int[][] board, int row, int col) {
+    private boolean isLive(int[][] board, int row, int col) {
         int neighbors = 0;
         
         boolean hasTop = row > 0;
@@ -58,10 +58,7 @@ class Solution {
         }
 
         boolean isLive = board[row][col] == 1;
-        if (neighbors == 3 || isLive && neighbors == 2) {
-            return 1;
-        }
         
-        return 0;
+        return neighbors == 3 || isLive && neighbors == 2;
     }
 }
