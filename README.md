@@ -86,3 +86,4 @@
 - Queries on Number of Points Inside a Circle [solution](1828-queries-on-number-of-points-inside-a-circle/1828-queries-on-number-of-points-inside-a-circle.java) `Array` `Math` `Geometry`
 - Minimum Number of Operations to Move All Balls to Each Box [solution](1769-minimum-number-of-operations-to-move-all-balls-to-each-box/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.java) `Array` `String`
 - Game of Life [solution](289-game-of-life/289-game-of-life.java) `Array` `Matrix` `Simulation`
+- Spiral Matrix II [solution](59-spiral-matrix-ii/59-spiral-matrix-ii.java) `Array` `Matrix` `Simulation`
