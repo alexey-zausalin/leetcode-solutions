@@ -13,18 +13,14 @@ class Solution {
         while (counter < maxCounter) {
             moveLeft();
             row++;
-            col--;
 
             moveBottom();
-            row--;
             col--;
 
             moveRight();
             row--;
-            col++;
 
             moveTop();
-            row++;
             col++;
         }
 
@@ -43,42 +39,30 @@ class Solution {
     }
     
     private void moveLeft() {
-        while (col < matrix.length) {
-            if (matrix[row][col] != 0) {
-                return;
-            }
-            
+        while (col < matrix.length && matrix[row][col] == 0) {
             matrix[row][col++] = ++counter;
-        }
+        }           
+        col--;
     }
         
     private void moveBottom() {
-        while (row < matrix.length) {
-            if (matrix[row][col] != 0) {
-                return;
-            }
-            
+        while (row < matrix.length && matrix[row][col] == 0) {
             matrix[row++][col] = ++counter;
         }
+        row--;
     }
          
     private void moveRight() {
-        while (col >= 0) {
-            if (matrix[row][col] != 0) {
-                return;
-            }
-            
+        while (col >= 0 && matrix[row][col] == 0) {
             matrix[row][col--] = ++counter;
         }
+        col++;
     }
        
     private void moveTop() {
-        while (row >= 0) {
-            if (matrix[row][col] != 0) {
-                return;
-            }
-            
+        while (row >= 0 && matrix[row][col] == 0) {
             matrix[row--][col] = ++counter;
         }
+        row++;
     }
 }
