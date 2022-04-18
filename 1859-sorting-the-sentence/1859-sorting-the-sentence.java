@@ -21,7 +21,7 @@ class Solution {
     }
     
     private int index(String word) {
-        return word.charAt(word.length()-1) - 1;
+        return word.charAt(word.length()-1);
     }
     
     private String pureWord(String word) {
