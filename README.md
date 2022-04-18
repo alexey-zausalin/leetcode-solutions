@@ -76,6 +76,7 @@
 - Reverse Linked List [solution](206-reverse-linked-list/206-reverse-linked-list.java) `Linked List` `Recursion`
 - Shift 2D Grid [solution](1260-shift-2d-grid/1260-shift-2d-grid.java) `Array` `Matrix` `Simulation`
 - Search in a Binary Search Tree [solution](700-search-in-a-binary-search-tree/700-search-in-a-binary-search-tree.java) `Tree` `Binary Search Tree` `Binary Tree`
+- Merge Sorted Array [solution](88-merge-sorted-array/88-merge-sorted-array.java) `Array` `Two Pointers` `Sorting`
 
 ### Medium
 
