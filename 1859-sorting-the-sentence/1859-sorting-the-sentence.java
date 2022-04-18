@@ -13,18 +13,18 @@ class Solution {
             }
         }
 
-        return toString(words);
-    }
-    
-    private int index(String word) {
-        return word.charAt(word.length()-1);
-    }
-    
-    private String toString(String[] words) {
         for (int i = 0; i < words.length; i++) {
-            words[i] = words[i].substring(0, words[i].length() - 1);
+            words[i] = pureWord(words[i]);
         }
         
         return String.join(" ", words);
+    }
+    
+    private int index(String word) {
+        return word.charAt(word.length()-1) - 1;
+    }
+    
+    private String pureWord(String word) {
+        return word.substring(0, word.length() - 1);
     }
 }
