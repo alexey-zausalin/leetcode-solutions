@@ -7,9 +7,7 @@ class Solution {
                     break;
                 }
 
-                String swap = words[j-1];
-                words[j-1] = words[j];
-                words[j] = swap;
+                swap(words, j-1, j);
             }
         }
 
@@ -22,6 +20,12 @@ class Solution {
     
     private int index(String word) {
         return word.charAt(word.length()-1);
+    }
+    
+    private void swap(String[] words, int i, int j) {
+        String swap = words[i];
+        words[i] = words[j];
+        words[j] = swap;
     }
     
     private String pureWord(String word) {
