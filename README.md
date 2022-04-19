@@ -78,6 +78,7 @@
 - Search in a Binary Search Tree [solution](700-search-in-a-binary-search-tree/700-search-in-a-binary-search-tree.java) `Tree` `Binary Search Tree` `Binary Tree`
 - Merge Sorted Array [solution](88-merge-sorted-array/88-merge-sorted-array.java) `Array` `Two Pointers` `Sorting`
 - Sorting the Sentence [solution](1859-sorting-the-sentence/1859-sorting-the-sentence.java) `String` `Sorting`
+- Maximum Product Difference Between Two Pairs [solution](1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.java) `Array` `Sorting`
 
 ### Medium
 
