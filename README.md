@@ -79,6 +79,7 @@
 - Merge Sorted Array [solution](88-merge-sorted-array/88-merge-sorted-array.java) `Array` `Two Pointers` `Sorting`
 - Sorting the Sentence [solution](1859-sorting-the-sentence/1859-sorting-the-sentence.java) `String` `Sorting`
 - Maximum Product Difference Between Two Pairs [solution](1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.java) `Array` `Sorting`
+- Maximum Product of Two Elements in an Array [solution](1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java) `Array` `Sorting` `Heap (Priority Queue)` 
 
 ### Medium
 
