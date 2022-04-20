@@ -81,6 +81,7 @@
 - Maximum Product Difference Between Two Pairs [solution](1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.java) `Array` `Sorting`
 - Maximum Product of Two Elements in an Array [solution](1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java) `Array` `Sorting` `Heap (Priority Queue)` 
 - Array Partition I [solution](561-array-partition-i/561-array-partition-i.java) `Array` `Greedy` `Sorting` `Counting Sort`
+- Height Checker [solution](1051-height-checker/1051-height-checker.java) `Array` `Sorting` `Sorting Count`
 
 ### Medium
 
