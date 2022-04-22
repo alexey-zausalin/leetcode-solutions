@@ -95,3 +95,4 @@
 - Minimum Number of Operations to Move All Balls to Each Box [solution](1769-minimum-number-of-operations-to-move-all-balls-to-each-box/1769-minimum-number-of-operations-to-move-all-balls-to-each-box.java) `Array` `String`
 - Game of Life [solution](289-game-of-life/289-game-of-life.java) `Array` `Matrix` `Simulation`
 - Spiral Matrix II [solution](59-spiral-matrix-ii/59-spiral-matrix-ii.java) `Array` `Matrix` `Simulation`
+- Sort Colors [solution](75-sort-colors/75-sort-colors.java) `Array` `Two Pointers` `Sorting`
