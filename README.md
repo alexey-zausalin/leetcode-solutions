@@ -83,6 +83,7 @@
 - Array Partition I [solution](561-array-partition-i/561-array-partition-i.java) `Array` `Greedy` `Sorting` `Counting Sort`
 - Height Checker [solution](1051-height-checker/1051-height-checker.java) `Array` `Sorting` `Sorting Count`
 - Binary Search [solution](704-binary-search/704-binary-search.java) `Array` `Binary Search`
+- Majority Element [solution](169-majority-element/169-majority-element.java) `Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting`
 
 ### Medium
 
