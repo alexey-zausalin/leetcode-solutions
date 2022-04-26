@@ -87,6 +87,7 @@
 - Missing Number [solution](268-missing-number/268-missing-number.java) `Array` `Hash Table` `Math` `Bit Manipulation` `Sorting`
 - Add Two Integers [solution](2-add-two-numbers/2-add-two-numbers.java) `Math`
 - Root Equals Sum of Children [solution](2236-root-equals-sum-of-children/2236-root-equals-sum-of-children.java) `Tree` `Binary Tree`
+- XOR Operation in an Array [solution](1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.java) `Math` `Bit Manipulation`
 
 ### Medium
 
