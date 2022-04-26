@@ -85,6 +85,7 @@
 - Binary Search [solution](704-binary-search/704-binary-search.java) `Array` `Binary Search`
 - Majority Element [solution](169-majority-element/169-majority-element.java) `Array` `Hash Table` `Divide and Conquer` `Sorting` `Counting`
 - Missing Number [solution](268-missing-number/268-missing-number.java) `Array` `Hash Table` `Math` `Bit Manipulation` `Sorting`
+- Add Two Integers [solution](2-add-two-numbers/2-add-two-numbers.java) `Math`
 
 ### Medium
 
