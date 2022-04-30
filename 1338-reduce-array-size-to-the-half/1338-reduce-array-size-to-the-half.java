@@ -5,14 +5,14 @@ class Solution {
             map.put(i, map.getOrDefault(i, 0) + 1);
         }
 
-        PriorityQueue<Map.Entry<Integer, Integer>> pq = new PriorityQueue(Map.Entry.comparingByValue().reversed());
-        for (Map.Entry entry : map.entrySet()) {
-            pq.add(entry);
+        PriorityQueue<Integer> pq = new PriorityQueue(Comparator.reverseOrder());
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            pq.add(entry.getValue());
         }
 
         int setCount = 0, sum = arr.length / 2;
         while (sum > 0) {
-            sum -= pq.poll().getValue();
+            sum -= pq.poll();
             setCount++;
         }
 
