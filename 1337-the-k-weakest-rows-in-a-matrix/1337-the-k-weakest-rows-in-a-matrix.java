@@ -26,7 +26,7 @@ class Solution {
 
         int[] ans = new int[k];
         for (int i = 0; i < k; i++) {
-            ans[i] = pq.remove().getKey();
+            ans[i] = pq.poll().getKey();
         }
 
         return ans;
