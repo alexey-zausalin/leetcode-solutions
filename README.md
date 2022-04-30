@@ -88,6 +88,7 @@
 - Add Two Integers [solution](2-add-two-numbers/2-add-two-numbers.java) `Math`
 - Root Equals Sum of Children [solution](2236-root-equals-sum-of-children/2236-root-equals-sum-of-children.java) `Tree` `Binary Tree`
 - XOR Operation in an Array [solution](1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.java) `Math` `Bit Manipulation`
+- Last Stone Weight [solution](1046-last-stone-weight/1046-last-stone-weight.java) `Array` `Heap (Priority Queue)`
 
 ### Medium
 
