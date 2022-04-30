@@ -101,3 +101,4 @@
 - Game of Life [solution](289-game-of-life/289-game-of-life.java) `Array` `Matrix` `Simulation`
 - Spiral Matrix II [solution](59-spiral-matrix-ii/59-spiral-matrix-ii.java) `Array` `Matrix` `Simulation`
 - Sort Colors [solution](75-sort-colors/75-sort-colors.java) `Array` `Two Pointers` `Sorting`
+- The K Weakest Rows in a Matrix [solution](1337-the-k-weakest-rows-in-a-matrix/1337-the-k-weakest-rows-in-a-matrix.java) `Array` `Binary Search` `Sorting` `Heap (Priority Queue)` `Matrix`
