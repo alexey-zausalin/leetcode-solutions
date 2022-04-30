@@ -1,13 +1,13 @@
 class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
-        PriorityQueue<Map.Entry<Integer, Integer>> pq = new PriorityQueue<Map.Entry<Integer, Integer>>(
+        PriorityQueue<int[]> pq = new PriorityQueue<int[]>(
             mat.length,
-            new Comparator<Map.Entry<Integer, Integer>>() {
+            new Comparator<int[]>() {
                 @Override
-                public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
-                    int ans = o1.getValue().compareTo(o2.getValue());
+                public int compare(int[] a, int[] b) {
+                    int ans = a[0] - b[0];
                     if (ans == 0) {
-                        return o1.getKey().compareTo(o2.getKey());
+                        return a[1] - b[1];
                     }
                     
                     return ans;
@@ -21,12 +21,12 @@ class Solution {
                 strength += mat[i][j];
             }
 
-            pq.add(Map.entry(i, strength));
+            pq.add(new int[]{strength, i});
         }
 
         int[] ans = new int[k];
         for (int i = 0; i < k; i++) {
-            ans[i] = pq.poll().getKey();
+            ans[i] = pq.poll()[1];
         }
 
         return ans;
