@@ -91,6 +91,7 @@
 - Last Stone Weight [solution](1046-last-stone-weight/1046-last-stone-weight.java) `Array` `Heap (Priority Queue)`
 - Implement strStr() [solution](28-implement-strstr/28-implement-strstr.java) `Two Pointers` `String` `String Matching`
 - Backspace String Compare [solution](844-backspace-string-compare/844-backspace-string-compare.java) `Two Pointers` `String` `Stack` `Simulation`
+- Intersection of Two Linked Lists [solution](160-intersection-of-two-linked-lists/160-intersection-of-two-linked-lists.java) `Hash Table` `Linked List` `Two Pointers`
 
 ### Medium
 
