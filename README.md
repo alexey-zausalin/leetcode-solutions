@@ -93,6 +93,7 @@
 - Backspace String Compare [solution](844-backspace-string-compare/844-backspace-string-compare.java) `Two Pointers` `String` `Stack` `Simulation`
 - Intersection of Two Linked Lists [solution](160-intersection-of-two-linked-lists/160-intersection-of-two-linked-lists.java) `Hash Table` `Linked List` `Two Pointers`
 - Reverse Words in a String III [solution](557-reverse-words-in-a-string-iii/557-reverse-words-in-a-string-iii.java) `Two Pointers` `String`
+- Count Negative Numbers in a Sorted Matrix [solution](1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.java) `Array` `Binary Search` `Matrix`
 
 ### Medium
 
