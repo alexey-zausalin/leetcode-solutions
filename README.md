@@ -95,6 +95,7 @@
 - Reverse Words in a String III [solution](557-reverse-words-in-a-string-iii/557-reverse-words-in-a-string-iii.java) `Two Pointers` `String`
 - Count Negative Numbers in a Sorted Matrix [solution](1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.java) `Array` `Binary Search` `Matrix`
 - Add Binary [solution](67-add-binary/67-add-binary.java) `Math` `String` `Bit Manipulation` `Simulation` 
+- Same Tree [solution](100-same-tree/100-same-tree.java) `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 
 ### Medium
 
