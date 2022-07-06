@@ -97,6 +97,7 @@
 - Add Binary [solution](67-add-binary/67-add-binary.java) `Math` `String` `Bit Manipulation` `Simulation` 
 - Same Tree [solution](100-same-tree/100-same-tree.java) `Tree` `Depth-First Search` `Breadth-First Search` `Binary Tree`
 - Unique Email Addresses [solution](unique-email-addresses/unique-email-addresses.java) `Array` `Hash Table` `String`
+- Add Two Integers [solution](2235-add-two-integers/2235-add-two-integers.java) `Math`
 
 ### Medium
 
