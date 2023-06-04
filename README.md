@@ -4,7 +4,7 @@
 ### Easy:
 
 - Two sum ([rust](0001-two-sum/0001-two-sum.rs), [java](1-two-sum/1-two-sum.java)) `Array` `Hash Table`
-- Build Array from Permutation [solution](1920-build-array-from-permutation/1920-build-array-from-permutation.java) `Array` `Simulation`
+- Build Array from Permutation ([rust](2048-build-array-from-permutation/2048-build-array-from-permutation.rs), [solution](1920-build-array-from-permutation/1920-build-array-from-permutation.java)) `Array` `Simulation`
 - Concatenation of Array [solution](1929-concatenation-of-array/1929-concatenation-of-array.java) `Array`
 - Jewels and Stones [solution](771-jewels-and-stones/771-jewels-and-stones.java) `Hash Table` `String`
 - Add Strings [solution](415-add-strings/415-add-strings.java) `Math` `String` `Simulation`
