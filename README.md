@@ -10,7 +10,7 @@
 - Add Strings [solution](415-add-strings/415-add-strings.java) `Math` `String` `Simulation`
 - Palindrome Number [solution](9-palindrome-number/9-palindrome-number.java) `Math`
 - Longest common prefix [solution](14-longest-common-prefix/14-longest-common-prefix.java) `String`
-- Final Value of Variable After Performing Operations [solution](2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.java) `Array` `String` `Simulation`
+- Final Value of Variable After Performing Operations ([rust](2137-final-value-of-variable-after-performing-operations/2137-final-value-of-variable-after-performing-operations.rs), [java](2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.java)) `Array` `String` `Simulation`
 - Defanging an IP Address [solution](1108-defanging-an-ip-address/1108-defanging-an-ip-address.java) `String`
 - Running Sum of 1d Array [solution](1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java) `Array` `Prefix Sum`
 - Richest Customer Wealth [solution](1672-richest-customer-wealth/1672-richest-customer-wealth.java) `Array` `Matrix`
