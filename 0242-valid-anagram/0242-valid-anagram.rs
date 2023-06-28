@@ -15,3 +15,21 @@ impl Solution {
         letters.into_values().all(|count| count == 0)
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_1() {
+        assert!(Solution::is_anagram(
+            "anagram".to_string(),
+            "nagaram".to_string()
+        ));
+    }
+
+    #[test]
+    fn test_2() {
+        assert!(!Solution::is_anagram("rat".to_string(), "car".to_string()));
+    }
+}
