@@ -8,3 +8,25 @@ impl Solution {
         nums_len != unique_nums.len()
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_1() {
+        assert!(Solution::contains_duplicate(vec![1, 2, 3, 1]));
+    }
+
+    #[test]
+    fn test_2() {
+        assert!(!Solution::contains_duplicate(vec![1, 2, 3, 4]));
+    }
+
+    #[test]
+    fn test_3() {
+        assert!(Solution::contains_duplicate(vec![
+            1, 1, 1, 3, 3, 4, 3, 2, 4, 2
+        ]));
+    }
+}
