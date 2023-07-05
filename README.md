@@ -115,3 +115,4 @@
 - Reduce Array Size to The Half [solution](1338-reduce-array-size-to-the-half/1338-reduce-array-size-to-the-half.java) `Array` `Hash Table` `Greedy` `Sorting` `Heap (Priority Queue)`
 - Sort Characters By Frequency [solution](451-sort-characters-by-frequency/451-sort-characters-by-frequency.java) `Hash Table` `String` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Counting`
 - Top K Frequent Elements [solution](347-top-k-frequent-elements/347-top-k-frequent-elements.java) `Array` `Hash Table` `Divide and Conquer` `Sorting` `Heap (Priority Queue)` `Bucket Sort` `Quickselect`
+- Group Anagrams ([rust](0049-group-anagrams/0049-group-anagrams.rs)) `Array` `Hash Table` `String` `Sorting`
