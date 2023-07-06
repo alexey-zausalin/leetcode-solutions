@@ -17,3 +17,24 @@ impl Solution {
             .collect::<Vec<_>>()
     }
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_1() {
+        let input = vec![1, 1, 1, 2, 2, 3];
+        let output = vec![1, 2];
+
+        assert_eq!(Solution::top_k_frequent(input, 2), output);
+    }
+
+    #[test]
+    fn test_2() {
+        let input = vec![1];
+        let output = vec![1];
+
+        assert_eq!(Solution::top_k_frequent(input, 1), output);
+    }
+}
