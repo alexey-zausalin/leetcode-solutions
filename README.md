@@ -32,7 +32,7 @@
 - Subtract the Product and Sum of Digits of an Integer [solution](1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java) `Math`
 - Decompress Run-Length Encoded List [solution](1313-decompress-run-length-encoded-list/1313-decompress-run-length-encoded-list.java) `Array`
 - Reverse string [solution](344-reverse-string/344-reverse-string.java) `Two Pointers` `String` `Recursion`
-- Contains Duplicate ([rust](0217-contains-duplicate/0217-contains-duplicate.rs), [java](217-contains-duplicate/217-contains-duplicate.java)) `Array` `Hash Table` `Sorting`
+- Contains Duplicate ([rust](0217-contains-duplicate/0217-contains-duplicate.rs), [java](217-contains-duplicate/217-contains-duplicate.java), [python](0217-contains-duplicate/0217-contains-duplicate.py)) `Array` `Hash Table` `Sorting`
 - Delete Node in a Linked List [solution](237-delete-node-in-a-linked-list/237-delete-node-in-a-linked-list.java) `Linked List`
 - Fizz Buzz [solution](412-fizz-buzz/412-fizz-buzz.java) `Math` `String` `Simulation`
 - Convert Binary Number in a Linked List to Integer [solution](1290-convert-binary-number-in-a-linked-list-to-integer/1290-convert-binary-number-in-a-linked-list-to-integer.java) `Linked List` `Math`
