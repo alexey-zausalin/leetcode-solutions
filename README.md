@@ -3,7 +3,7 @@
 
 ### Easy:
 
-- Two sum ([rust](0001-two-sum/0001-two-sum.rs), [java](1-two-sum/1-two-sum.java)) `Array` `Hash Table`
+- Two sum ([rust](0001-two-sum/0001-two-sum.rs), [java](1-two-sum/1-two-sum.java), [python](0001-two-sum/0001-two-sum.py)) `Array` `Hash Table`
 - Build Array from Permutation ([rust](2048-build-array-from-permutation/2048-build-array-from-permutation.rs), [java](1920-build-array-from-permutation/1920-build-array-from-permutation.java)) `Array` `Simulation`
 - Concatenation of Array ([rust](2058-concatenation-of-array/2058-concatenation-of-array.rs), [java](1929-concatenation-of-array/1929-concatenation-of-array.java)) `Array`
 - Jewels and Stones ([rust](0782-jewels-and-stones/0782-jewels-and-stones.rs), [java](771-jewels-and-stones/771-jewels-and-stones.java)) `Hash Table` `String`
